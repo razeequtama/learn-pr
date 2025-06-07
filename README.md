@@ -3,7 +3,7 @@
 This is my first ever "project"- created as a capstone project under the name of Appbrewery's udemy fullstack course.
 Only created to know how to host a web from GitHub.
 Not everything said or presented in the website is true.
-A regular website using HTML.
+This is merely just a regular website using HTML.
 
 ## Features
 - 
