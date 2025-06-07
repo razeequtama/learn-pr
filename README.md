@@ -9,7 +9,7 @@ This is merely just a regular website using HTML.
 - 
 
 ## Live Demo
--
+https://razeequtama.github.io/learn-pr/
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/13cd0f49-bc0e-4c34-b38c-0fabbeee0ba2)
